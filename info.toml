@@ -1,0 +1,9 @@
+[meta]
+name = "Platform Leaderboards"
+author = "Fort-TM"
+category = "Race"
+version = "0.1.0"
+
+[script]
+dependencies = [ "NadeoServices" ]
+optional_dependencies = [ "MLHook" ]
