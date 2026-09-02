@@ -39,6 +39,11 @@ The plugin requires the `NadeoServices` plugin to perform certain API requests. 
 
 Additionally, the plugin can use [MLHook](https://openplanet.dev/plugin/mlhook) to toggle record ghosts. This is optional, and it's not required to use the plugin.
 
+## Known limitations
+
+* PBs driven before the leaderboard was supported by the API will not appear in the leaderboard for other players. This is because personal records were already supported before December 2025, but they can't submitted to the leaderboard.
+* PBs with 0 respawns can't be improved, including when driving a faster time. If the run was driven before December 2025, this means you won't be able to have a record in the leaderboard.
+
 ## Credits
 
 Thanks to Zai for discovering the format used by the API for the records.
