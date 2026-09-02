@@ -2,7 +2,7 @@
 
 When the platform game mode was added to Trackmania 2020, it didn't have an ingame leaderboard to submit your records. In December 2025, Nadeo added a leaderboard for Platform maps to their API, but it was never added to the game.
 
-With this plugin, you can this leaderboard, including respawns, race time, and when it was driven.
+With this plugin, you can see this leaderboard, including respawns, race time, and when it was driven.
 
 ## Record formatting
 
